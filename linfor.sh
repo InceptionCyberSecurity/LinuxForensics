@@ -1,6 +1,6 @@
 #!/bin/#!/usr/bin/env bash
 
-# Last login
+# Last user login
 $ lastlog
 $ last
 
